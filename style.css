@@ -1,0 +1,15 @@
+.nav-link:hover {
+    color: #008a58 !important;
+    font-weight: bold;
+
+  }
+
+  #navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .navbar-brand{
+    color:#008a58 !important;
+    font-weight: bold !important;
+  }
